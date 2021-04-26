@@ -1,2 +1,2 @@
 # fournier-coding
-personal git repo
+A personal repo for all things coding.
